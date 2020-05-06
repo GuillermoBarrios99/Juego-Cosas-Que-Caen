@@ -1,2 +1,0 @@
-safecrlf = false
-git config core.autocrlf
